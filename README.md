@@ -1,1 +1,1 @@
-# Market-Impact-Analysis
+Analyzed and optimized revenue generation strategies for 'Foodelicious' by conducting a comprehensive data wrangling and analysis project. This involved dissecting the impact of marketing campaigns on product sales across various categories, identifying key revenue drivers, and providing actionable insights to enhance marketing efforts. My analysis supported strategic decisions, improving campaign targeting and customer segmentation based on detailed revenue and preference trends.
